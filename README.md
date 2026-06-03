@@ -1,0 +1,2 @@
+# Flufinder
+Flufinder pipeline
